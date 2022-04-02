@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/InterfaceLoginReact/static/css/main.2ebce3a1.css",
-    "main.js": "/InterfaceLoginReact/static/js/main.7f8ba83d.js",
+    "main.js": "/InterfaceLoginReact/static/js/main.d7df00a3.js",
     "static/media/dev.svg": "/InterfaceLoginReact/static/media/dev.8ac276e6a4fbd28517ed0ef91d0a5e5c.svg",
     "index.html": "/InterfaceLoginReact/index.html",
     "main.2ebce3a1.css.map": "/InterfaceLoginReact/static/css/main.2ebce3a1.css.map",
-    "main.7f8ba83d.js.map": "/InterfaceLoginReact/static/js/main.7f8ba83d.js.map"
+    "main.d7df00a3.js.map": "/InterfaceLoginReact/static/js/main.d7df00a3.js.map"
   },
   "entrypoints": [
     "static/css/main.2ebce3a1.css",
-    "static/js/main.7f8ba83d.js"
+    "static/js/main.d7df00a3.js"
   ]
 }
