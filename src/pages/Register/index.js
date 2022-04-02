@@ -54,7 +54,7 @@ export const Register = () => {
 
                 <div className="text-center">
                     <span className="txt1">Do you have account? </span>
-                    <Link className="txt2" to="/">
+                    <Link className="txt2" to="/login">
                         Log in.
                     </Link>
                 </div>    

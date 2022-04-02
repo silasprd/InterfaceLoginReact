@@ -6,7 +6,7 @@ export const AppRoutes = () => {
     return (
         <Router>
             <Routes>
-                <Route path="/" exact element={<Login />}/>
+                <Route path="/login" exact element={<Login />}/>
                 <Route path="/register" exact element={<Register />}/>
             </Routes>
         </Router> 
