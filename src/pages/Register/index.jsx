@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { LayoutComponents } from "../../components/layout";
+import { LayoutComponents } from "../../layout";
 import { Link } from "react-router-dom"; 
 import logIMG from "../../assets/dev.svg";
 

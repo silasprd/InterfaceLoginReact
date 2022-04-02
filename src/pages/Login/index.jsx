@@ -4,7 +4,7 @@ import { useState } from "react";
 
 import logIMG from "../../assets/dev.svg";
 
-import { LayoutComponents } from '../../components/layout';
+import { LayoutComponents } from '../../layout';
 
 export const Login = () => {
     const [email, setEmail] = useState("");
